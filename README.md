@@ -22,14 +22,13 @@ This project implements and compares various search algorithms across different 
 
 ## Installation
 
-Ensure you have Python 3.10+ installed. Install required dependencies:
-
 Before running it is recommended to create a virtual environment through:
 ```bash
 python -m venv env
 ./env/Scripts/activate
 ```
 
+Ensure you have Python 3.10+ installed. Install required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
