@@ -29,5 +29,4 @@ results/*
 results/*.log
 
 # Ignore slide output formats, keep folder
-slides/*
 !slides/README.md
