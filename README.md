@@ -24,27 +24,21 @@ This project implements and compares various search algorithms across different 
 
 Ensure you have Python 3.10+ installed. Install required dependencies:
 
+Before running it is recommended to create a virtual environment through:
+```bash
+python -m venv env
+./env/Scripts/activate
+```
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
 
-Before running it is recommended to create a virtual environment through:
-```bash
-python -m venv env
-./env/Scripts/activate
-```
 ## How to Run
 
-### 1. Install all requirements
-
-```bash
-pip install -r requirements.txt
-```
-This will test if envs are running properly.
-
-### 2. Run main to get your video results
+### 1. Run main to get your video results
 
 ```bash
 python main.py
